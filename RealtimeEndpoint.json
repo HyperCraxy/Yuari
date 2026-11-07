@@ -1,11 +1,11 @@
 {
   "name": "Yuari",
   "updated": true,
-  "version": "1.1.7",
-  "updateDate": "11/06/2026 at 8:00 PM UTC",
+  "version": "1.1.8",
+  "updateDate": "11/07/2026 at 00:40 PM UTC",
   "Windows": {
     "exe": "https://work.ink/2NQ3/yuari-external-download"
   },
-  "discord_invite": "https://discord.gg/6KzHTuCypX",
-  "Changelog": "1.1.7\n[~] Updated Latest version\n[+] Redesigned UI once again\n[+] LuauVM Improvements\n[+] Rewrote fireclickdetector\n[+] Improved fireproximityprompt stability.\n[+] Rewrote firetouchinterest\n[+] More ESP Customizations\n[+] New Npc tab, allows you to set up aimbot, esp etc on npcs\n[+] Updated LuauVM documentation\n[+] Updated Website\n[+] Fixed Esp Preview not centered properly\n[+] Fixed Explorer Tree View\n[+] Fixed Explorer Refresh\n[+] New silent aim method\n[+] firetouch alias\n[+] keydown aliases\n[+] New function renderstepped\n[+] New function getmouse()\n[+] New function getscreensize()\n[+] New function getinstances()\n[+] New function worldtoscreen()\n[+] New function Drawing.loadfont(path, size?, smooth?)\n[+] New function inst:InputHoldBegin()\n[+] New function inst:InputHoldEnd()\n[+] New function LuaDrawing::Render()\n[+] math.* table.* improvements\n[+] new Drawing triangle and quad\n[+] Lots of new cframe improvements\n[+] new time() same as tick\n[+] new enum functions\n[+] new connection disable enable .connected\n[+] getconnections (different then execs)\n[+] getgenv (returns the luauvm env)\n[+] udim improvements\n[+] even more aliases"
+  "discord_invite": "https://discord.gg/gBYsZzrwfn",
+  "Changelog": "1.1.8\n [+] New discord erver https://discord.gg/gBYsZzrwfn must redownload"
 }
