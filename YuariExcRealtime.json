@@ -1,11 +1,11 @@
 {
   "name": "Yuari",
   "updated": true,
-  "version": "1.0.8",
-  "updateDate": "10/27/2026 at 18:28 AM UTC",
+  "version": "1.0.9",
+  "updateDate": "11/07/2026 at 02:14 PM UTC",
   "Windows": {
-    "exe": "https://work.ink/2NQ3/1af54671-11ac-4b24-b70f-d69711a235c5"
+    "exe": "https://work.ink/2NQ3/yuari-external-download"
   },
-
-  "discord_invite": "https://discord.gg/6KzHTuCypX"
+  "discord_invite": "https://discord.gg/gBYsZzrwfn",
+  "Changelog": "1.1.8\n [+] New discord erver https://discord.gg/gBYsZzrwfn\n[+] Fixed stability issues with signal.new lib\n[+] Tphandler\n[+] Fixed crashes related to gethiddenproperty\n[+] Improved stability of sethiddenproperty\n[+] Improved setscriptable, isscriptable\n[+] Fixed 5sec crashes hopefully"
 }
