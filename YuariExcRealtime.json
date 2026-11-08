@@ -1,11 +1,11 @@
 {
   "name": "Yuari",
   "updated": true,
-  "version": "1.0.9",
-  "updateDate": "11/07/2026 at 02:14 PM UTC",
+  "version": "1.1.0",
+  "updateDate": "11/08/2026 at 09:13 PM UTC",
   "Windows": {
     "exe": "https://work.ink/2NQ3/yuari-external-download"
   },
   "discord_invite": "https://discord.gg/gBYsZzrwfn",
-  "Changelog": "1.1.8\n [+] New discord erver https://discord.gg/gBYsZzrwfn\n[+] Fixed stability issues with signal.new lib\n[+] Tphandler\n[+] Fixed crashes related to gethiddenproperty\n[+] Improved stability of sethiddenproperty\n[+] Improved setscriptable, isscriptable\n[+] Fixed 5sec crashes hopefully"
+  "Changelog": "1.1.0\n[+] Fixed getconnections\n[+] Fixed cloneref garbage collector\n[+] Fixed getcallbackvalue\n[+] Fixed isparallel\n[+] Fixed hooksignal and restoresignal\n[+] Fixed setstackhidden error locations\n[+] Fixed DirectoryWatcher auto-start and OnChanged events\n[+] Fixed dofile return values\n[+] Fixed readfileasync, writefileasync, appendfileasync, loadfileasync and dofileasync\n[+] Fixed keypress, keyrelease and keyclick input injection\n[+] Fixed getobjects asset loading\n[+] Fixed getscripthash bytecode hashing\n[+] Fixed debug.getcallstack currentline\n[+] Fixed raknet.send buffer support\n[+] Fixed raknet.receive packet injection\n[+] Fixed saveinstance output and return value\n[+] Fixed runonthread and run_on_thread\n[+] Fixed game.HttpGet error handling\n[+] Fixed getactorthreads\n[+] Improved account security method blocking\n[+] Added issignalhooked\n[+] Added getfunctionbytecode\n[+] Added getobjectreferences and getfunctionreferences\n[+] Added iscorescript\n[+] Added writecustomasset\n[+] Added hookproto and restoreproto\n[+] Added createcommchannel and getcommchannel\n[+] Added UI autocompletions for all new functions\n[+] Added executor documentation for all new and updated functions\n[+] Performance Improvements"
 }
