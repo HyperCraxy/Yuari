@@ -1,11 +1,11 @@
 {
   "name": "Yuari",
   "updated": true,
-  "version": "1.1.8",
-  "updateDate": "11/07/2026 at 00:40 PM UTC",
+  "version": "1.1.9",
+  "updateDate": "11/11/2026 at 05:10 PM UTC",
   "Windows": {
     "exe": "https://work.ink/2NQ3/yuari-external-download"
   },
   "discord_invite": "https://discord.gg/gBYsZzrwfn",
-  "Changelog": "1.1.8\n [+] New discord erver https://discord.gg/gBYsZzrwfn must redownload"
+  "Changelog": "1.1.9\n [+] Updated latest version"
 }
