@@ -1,11 +1,12 @@
+
 {
   "name": "Yuari",
   "updated": true,
-  "version": "1.1.9",
-  "updateDate": "11/11/2026 at 05:10 PM UTC",
+  "version": "1.2.0",
+  "updateDate": "11/17/2026 at 06:10 PM UTC",
   "Windows": {
     "exe": "https://work.ink/2NQ3/yuari-external-download"
   },
   "discord_invite": "https://discord.gg/gBYsZzrwfn",
-  "Changelog": "1.1.9\n [+] Updated latest version"
+  "Changelog": "1.2.0\n[~] Updated latest version\n[+] Fixed Flight keep falling\n[+] Fixed noclip\n[+] Fixed healthbar on right\n[+] Fixed Chams head not rendering\n[+] Added actvation toggle to flight\n[+] Added activation toggle to walkspeed\n[+] Added lock charachter postion to freecam\n[+] Added teleport on click to freecam\n[+] Fixed toggles which are offset related thanks to new dumper\n[+] Fixed Magic bullet (only works on games with bad ac)\n[+] Redesigned Offscreen arrows\n[+] Redesigned Esp drawing to look more modern\n[+] Animated Gradient text\n[+] Music player now loads thumbnail\n[~] Renamed Camera method to Memory\n[+] Moved Engine chams to Chams section\n[+] Engine chams colors are rgb selectors now instead of presets\n[+] New clicktp\n[+] Fixed Fireserver\n[+] Fixed Visible Check\n[+] Fixed Raycast Engine\n[+] Max Fov is now 160\n[+] New Luau Function invokeserver\n[+] Updated docs for invokeserver"
 }
